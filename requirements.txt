@@ -1,0 +1,7 @@
+anthropic
+python-telegram-bot>=20
+pdfplumber
+pymupdf
+python-pptx
+pillow
+python-dotenv
